@@ -1,7 +1,8 @@
-body{
-    background-color: brown;
-}
 
-p{
-    color: aqua;
+.nav{
+    overflow: hidden;
+    background-color: darkolivegreen;
+    float: left;
+    margin: 5px;
+    color: black;
 }
